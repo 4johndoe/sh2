@@ -87,14 +87,14 @@
         }
     </style>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <link rel='stylesheet' id='contact-form-7-css' href='css/styles.css?ver=4.3.1' type='text/css' media='all' />
-    <link rel='stylesheet' id='plk-style-css' href='css/style.css?ver=4.2.6' type='text/css' media='all' />
-    <link rel='stylesheet' id='kadence_theme-css' href='css/virtue.css?ver=247' type='text/css' media='all' />
-    <link rel='stylesheet' id='virtue_skin-css' href='css/default.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='redux-google-fonts-virtue-css' href='css/css?family=Lato%3A400%2C700&#038;ver=1432737196' type='text/css' media='all' />
-    <script type='text/javascript' src='js/jquery.js?ver=1.11.2'></script>
-    <script type='text/javascript' src='js/jquery-migrate.min.js?ver=1.2.1'></script>
-    <script type='text/javascript' src='js/modernizr.min.js'></script>
+    <link rel='stylesheet' id='contact-form-7-css' href='theme/css/styles.css?ver=4.3.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='plk-style-css' href='theme/css/style.css?ver=4.2.6' type='text/css' media='all' />
+    <link rel='stylesheet' id='kadence_theme-css' href='theme/css/virtue.css?ver=247' type='text/css' media='all' />
+    <link rel='stylesheet' id='virtue_skin-css' href='theme/css/default.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='redux-google-fonts-virtue-css' href='theme/css/css?family=Lato%3A400%2C700&#038;ver=1432737196' type='text/css' media='all' />
+    <script type='text/javascript' src='theme/js/jquery.js?ver=1.11.2'></script>
+    <script type='text/javascript' src='theme/js/jquery-migrate.min.js?ver=1.2.1'></script>
+    <script type='text/javascript' src='theme/js/modernizr.min.js'></script>
     <!-- <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://1lk.com.ua/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://1lk.com.ua/wp-includes/wlwmanifest.xml" />  -->
     <!-- <meta name="generator" content="WordPress 4.2.6" /> -->
