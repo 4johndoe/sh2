@@ -15,7 +15,7 @@
                                         <div id="plkCarousel" class="carousel slide">
                                             <div class="carousel-inner">
                                                 <div class="item active">
-                                                    <img width="940" height="370" src="images/slide1n2-e1376418541272.jpg" class="attachment-thumbnail wp-post-image" alt="slide1n2" />
+                                                    <img width="940" height="370" src="theme/images/slide1n2-e1376418541272.jpg" class="attachment-thumbnail wp-post-image" alt="slide1n2" />
                                                     <div class="disclaimer">
                                                         <h1>Новый уровень транспортно-логистических услуг</h1>
                                                         <p>
@@ -25,7 +25,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="item ">
-                                                    <img width="940" height="370" src="images/slide2n6.jpg" class="attachment-thumbnail wp-post-image" alt="slide2n6" />
+                                                    <img width="940" height="370" src="theme/images/slide2n6.jpg" class="attachment-thumbnail wp-post-image" alt="slide2n6" />
                                                     <div class="disclaimer">
                                                         <h1>«Первая Логистическая Компания» – Ваш надежный партнер на рынке Украины</h1>
                                                         <p>
@@ -34,7 +34,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="item ">
-                                                    <img width="940" height="370" src="images/title_3.jpg" class="attachment-thumbnail wp-post-image" alt="title_3" />
+                                                    <img width="940" height="370" src="theme/images/title_3.jpg" class="attachment-thumbnail wp-post-image" alt="title_3" />
                                                     <div class="disclaimer">
                                                         <h1>Гибкая система тарификации услуг</h1>
                                                         <p>

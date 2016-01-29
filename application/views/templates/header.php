@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="en">
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"> <![endif]-->
@@ -91,7 +92,7 @@
     <link rel='stylesheet' id='plk-style-css' href='theme/css/style.css?ver=4.2.6' type='text/css' media='all' />
     <link rel='stylesheet' id='kadence_theme-css' href='theme/css/virtue.css?ver=247' type='text/css' media='all' />
     <link rel='stylesheet' id='virtue_skin-css' href='theme/css/default.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='redux-google-fonts-virtue-css' href='theme/css/css?family=Lato%3A400%2C700&#038;ver=1432737196' type='text/css' media='all' />
+    <link rel='stylesheet' id='redux-google-fonts-virtue-css' href='http://fonts.googleapis.com/css?family=Lato%3A400%2C700&ver=1432737196' type='text/css' media='all' />
     <script type='text/javascript' src='theme/js/jquery.js?ver=1.11.2'></script>
     <script type='text/javascript' src='theme/js/jquery-migrate.min.js?ver=1.2.1'></script>
     <script type='text/javascript' src='theme/js/modernizr.min.js'></script>
@@ -259,7 +260,7 @@
                         <div id="logo" class="logocase">
                             <a class="brand logofont" href="http://1lk.com.ua/">
                                 <div id="thelogo">
-                                    <img src="images/logo_big_ru1.png" alt="ООО «Первая Логистическая Компания»" class="kad-standard-logo" />
+                                    <img src="theme/images/logo_big_ru1.png" alt="ООО «Первая Логистическая Компания»" class="kad-standard-logo" />
                                 </div>
                             </a>
                         </div>

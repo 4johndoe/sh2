@@ -22,7 +22,7 @@
         </footer>
 
         <div id="su-footer-links" style="text-align: center;"></div>
-        <script type='text/javascript' src='http://1lk.com.ua/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+        <script type='text/javascript' src='theme/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
         <script type='text/javascript'>
             /* <![CDATA[ */
             var _wpcf7 = {
@@ -32,11 +32,11 @@
             };
             /* ]]> */
         </script>
-        <script type='text/javascript' src='http://1lk.com.ua/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3.1'></script>
-        <script type='text/javascript' src='http://1lk.com.ua/wp-includes/js/masonry.min.js?ver=3.1.2'></script>
-        <script type='text/javascript' src='http://1lk.com.ua/wp-content/themes/virtue/assets/js/min/plugins-min.js?ver=247'></script>
-        <script type='text/javascript' src='http://1lk.com.ua/wp-content/themes/virtue/assets/js/main.js?ver=247'></script>
-        <script type='text/javascript' src='http://1lk.com.ua/wp-content/themes/virtue/js/bootstrap-carousel.js?ver=1.0'></script>
+        <script type='text/javascript' src='theme/js/scripts.js?ver=4.3.1'></script>
+        <script type='text/javascript' src='theme/js/masonry.min.js?ver=3.1.2'></script>
+        <script type='text/javascript' src='theme/js/plugins-min.js?ver=247'></script>
+        <script type='text/javascript' src='theme/js/main.js?ver=247'></script>
+        <script type='text/javascript' src='theme/js/bootstrap-carousel.js?ver=1.0'></script>
     </div>
     <!--Wrapper-->
 </body>
