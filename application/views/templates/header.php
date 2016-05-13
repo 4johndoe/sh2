@@ -9,7 +9,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>ООО «Первая Логистическая Компания»</title>
+    <title>ООО «sdlkgdfskl;gj»</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name='yandex-verification' content='46236ecc2af64df5' />
     <meta name="google-site-verification" content="D6T_juVWInjrXPbZ5k_zFKp7zLXYGOV2SVbz2yqtCMI" />
@@ -30,23 +30,23 @@
     </script>
 
     <!-- SEO Ultimate (http://www.seodesignsolutions.com/wordpress-seo/) -->
-    <meta name="description" content="Транспортно логистическая компания, предоставляющая полный спектр услуг в сфере железнодорожных перевозок. Опираясь на многолетний опыт организации перевозок и экспедирования по Украине, странам СНГ, Балтии, Западной Европы и Азии, наши специалисты предлагают услуги качественного транспортно-экспедиционного обслуживания грузов." />
+    <meta name="description" content="" />
     <meta property="og:type" content="blog" />
-    <meta property="og:title" content="ООО «Первая Логистическая Компания»" />
-    <meta property="og:description" content="Транспортно логистическая компания, предоставляющая полный спектр услуг в сфере железнодорожных перевозок. Опираясь на многолетний опыт организации перевозок и экспедирования по Украине, странам СНГ, Балтии, Западной Европы и Азии, наши специалисты предлагают услуги качественного транспортно-экспедиционного обслуживания грузов." />
-    <meta property="og:url" content="http://1lk.com.ua/" />
-    <meta property="og:site_name" content="ООО «Первая Логистическая Компания»" />
+    <meta property="og:title" content="ООО «asgasergewg»" />
+    <meta property="og:description" content="fgafgafga" />
+    <meta property="og:url" content="asdf" />
+    <meta property="og:site_name" content="adfadfasd" />
     <meta name="twitter:card" content="summary" />
     <!-- /SEO Ultimate -->
 
-    <link rel="alternate" type="application/rss+xml" title="ООО «Первая Логистическая Компания» &raquo; Feed" href="http://1lk.com.ua/feed" />
-    <link rel="alternate" type="application/rss+xml" title="ООО «Первая Логистическая Компания» &raquo; Comments Feed" href="http://1lk.com.ua/comments/feed" />
+    <link rel="alternate" type="application/rss+xml" title="adfadfasf" href="" />
+    <link rel="alternate" type="application/rss+xml" title="adfasfasdfasdf" href="asdfas" />
     <script type="text/javascript">
         window._wpemojiSettings = {
             "baseUrl": "http:\/\/s.w.org\/images\/core\/emoji\/72x72\/",
             "ext": ".png",
             "source": {
-                "concatemoji": "http:\/\/1lk.com.ua\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.6"
+                "concatemoji": ""
             }
         };
         ! function(a, b, c) {
@@ -96,8 +96,8 @@
     <script type='text/javascript' src='theme/js/jquery.js?ver=1.11.2'></script>
     <script type='text/javascript' src='theme/js/jquery-migrate.min.js?ver=1.2.1'></script>
     <script type='text/javascript' src='theme/js/modernizr.min.js'></script>
-    <!-- <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://1lk.com.ua/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://1lk.com.ua/wp-includes/wlwmanifest.xml" />  -->
+    <!-- <link rel="EditURI" type="application/rsd+xml" title="RSD" href="#/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="#/wp-includes/wlwmanifest.xml" />  -->
     <!-- <meta name="generator" content="WordPress 4.2.6" /> -->
     <style type="text/css">
         #logo {
@@ -145,9 +145,7 @@
             min-height: 40px;
         }
     </style>
-    <!--[if lt IE 9]>
-<script src="http://1lk.com.ua/wp-content/themes/virtue/assets/js/vendor/respond.min.js"></script>
-<![endif]-->
+    
     <style type="text/css" title="dynamic-css" class="options-output">
         header #logo a.brand,
         .logofont {
@@ -258,9 +256,9 @@
                 <div class="row">
                     <div class="col-md-6 clearfix kad-header-left">
                         <div id="logo" class="logocase">
-                            <a class="brand logofont" href="http://1lk.com.ua/">
+                            <a class="brand logofont" href="#">
                                 <div id="thelogo">
-                                    <img src="theme/images/logo_big_ru1.png" alt="ООО «Первая Логистическая Компания»" class="kad-standard-logo" />
+                                    <img src="theme/images/logo_big_ru1.png" alt="ООО «argsdfgsdo;figj»" class="kad-standard-logo" />
                                 </div>
                             </a>
                         </div>
@@ -271,15 +269,15 @@
                     <div class="col-md-6 kad-header-right">
 
                         <div class="contacts sltt">
-                            <!-- <i class="icon-phone"></i> +38 (044) 351-78-98<i class="icon-envelope"></i> office@1lk.com.ua-->
-                            <a class="btn btn-danger" href="http://1lk.com.ua/on-line"><i class="icon-envelope-alt icon-large"></i> Обратная связь</a>
+
+                            <a class="btn btn-danger" href="#"><i class="icon-envelope-alt icon-large"></i> Обратная связь</a>
                         </div>
 
                         <nav id="nav-main" class="clearfix" role="navigation">
                             <ul id="menu-lang" class="sf-menu">
-                                <li class="menu-ru current-menu-item current_page_item menu-item-758"><a href="http://1lk.com.ua/">ru</a></li>
-                                <li class="menu-ua menu-item-757"><a href="http://1lk.com.ua/ua">ua</a></li>
-                                <li class="menu-en menu-item-756"><a href="http://1lk.com.ua/en">en</a></li>
+                                <li class="menu-ru current-menu-item current_page_item menu-item-758"><a href="#/">ru</a></li>
+                                <li class="menu-ua menu-item-757"><a href="#">ua</a></li>
+                                <li class="menu-en menu-item-756"><a href="#">en</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -298,24 +296,24 @@
                         <div class="kad-nav-collapse">
                             <ul id="menu-top" class="kad-mnav">
                                 <li class="menu- current-menu-item current_page_item menu-item-20"><a href="/">Главная</a></li>
-                                <li class="menu-iclassicon-caret-downi sf-dropdown sf-dropdown-toggle menu-item-33"><a href="http://1lk.com.ua/logisticheskie-uslugi">Услуги <i class="icon-caret-down"></i></a><span class="kad-submenu-accordion collapse-next  kad-submenu-accordion-open" data-parent=".kad-nav-collapse" data-toggle="collapse" data-target=""><i class="icon-chevron-down"></i><i class="icon-chevron-up"></i></span>
+                                <li class="menu-iclassicon-caret-downi sf-dropdown sf-dropdown-toggle menu-item-33"><a href="#/logisticheskie-uslugi">Услуги <i class="icon-caret-down"></i></a><span class="kad-submenu-accordion collapse-next  kad-submenu-accordion-open" data-parent=".kad-nav-collapse" data-toggle="collapse" data-target=""><i class="icon-chevron-down"></i><i class="icon-chevron-up"></i></span>
                                     <ul class="sf-dropdown-menu collapse">
-                                        <li class="menu-br sf-dropdown-submenu sf-dropdown-toggle menu-item-26"><a href="http://1lk.com.ua/zhd-perevozki">Железнодорожные <br/> перевозки</a><span class="kad-submenu-accordion collapse-next  kad-submenu-accordion-open" data-parent=".kad-nav-collapse" data-toggle="collapse" data-target=""><i class="icon-chevron-down"></i><i class="icon-chevron-up"></i></span>
+                                        <li class="menu-br sf-dropdown-submenu sf-dropdown-toggle menu-item-26"><a href="#/zhd-perevozki">Железнодорожные <br/> перевозки</a><span class="kad-submenu-accordion collapse-next  kad-submenu-accordion-open" data-parent=".kad-nav-collapse" data-toggle="collapse" data-target=""><i class="icon-chevron-down"></i><i class="icon-chevron-up"></i></span>
                                             <ul class="sf-dropdown-menu collapse">
-                                                <li class="menu- menu-item-205"><a href="http://1lk.com.ua/zhd-perevozki/tarnih-gruzov">Перевозка тарных грузов</a></li>
-                                                <li class="menu- menu-item-206"><a href="http://1lk.com.ua/zhd-perevozki/temprature">Рефрижераторные жд грузоперевозки по Украине</a></li>
-                                                <li class="menu- menu-item-207"><a href="http://1lk.com.ua/zhd-perevozki/nasypnih">Перевозка насыпных грузов</a></li>
-                                                <li class="menu- menu-item-208"><a href="http://1lk.com.ua/zhd-perevozki/zernovie">Перевозка зерновых грузов</a></li>
+                                                <li class="menu- menu-item-205"><a href="#/zhd-perevozki/tarnih-gruzov">Перевозка тарных грузов</a></li>
+                                                <li class="menu- menu-item-206"><a href="#/zhd-perevozki/temprature">Рефрижераторные жд грузоперевозки по Украине</a></li>
+                                                <li class="menu- menu-item-207"><a href="#/zhd-perevozki/nasypnih">Перевозка насыпных грузов</a></li>
+                                                <li class="menu- menu-item-208"><a href="#/zhd-perevozki/zernovie">Перевозка зерновых грузов</a></li>
                                             </ul>
                                         </li>
-                                        <li class="menu- menu-item-25"><a href="http://1lk.com.ua/sklad">Складские услуги и таможенное оформление грузов</a></li>
-                                        <li class="menu-br menu-item-24"><a href="http://1lk.com.ua/multimodalnye-perevozki">Мультимодальные <br/> перевозки</a></li>
-                                        <li class="menu- menu-item-23"><a href="http://1lk.com.ua/tranzit">Транзит грузов железнодорожным транспортом</a></li>
+                                        <li class="menu- menu-item-25"><a href="#/sklad">Складские услуги и таможенное оформление грузов</a></li>
+                                        <li class="menu-br menu-item-24"><a href="#/multimodalnye-perevozki">Мультимодальные <br/> перевозки</a></li>
+                                        <li class="menu- menu-item-23"><a href="#/tranzit">Транзит грузов железнодорожным транспортом</a></li>
                                     </ul>
                                 </li>
-                                <li class="menu- menu-item-27"><a href="http://1lk.com.ua/o-kompanii">О компании</a></li>
-                                <li class="menu- menu-item-830"><a href="http://1lk.com.ua/category/news">Новости</a></li>
-                                <li class="menu-on-line menu-item-21"><a href="http://1lk.com.ua/on-line">On-line заявка</a></li>
+                                <li class="menu- menu-item-27"><a href="#/o-kompanii">О компании</a></li>
+                                <li class="menu- menu-item-830"><a href="#/category/news">Новости</a></li>
+                                <li class="menu-on-line menu-item-21"><a href="#/on-line">On-line заявка</a></li>
                             </ul>
                         </div>
                     </div>
@@ -328,24 +326,24 @@
                     <nav id="nav-second" class="clearfix" role="navigation">
                         <ul id="menu-top-1" class="sf-menu">
                             <li class="menu-glavnaya current-menu-item current_page_item menu-item-20"><a href="/">Главная</a></li>
-                            <li class="menu-uslugi sf-dropdown menu-item-33"><a href="http://1lk.com.ua/logisticheskie-uslugi">Услуги <i class="icon-caret-down"></i></a>
+                            <li class="menu-uslugi sf-dropdown menu-item-33"><a href="#/logisticheskie-uslugi">Услуги <i class="icon-caret-down"></i></a>
                                 <ul class="sf-dropdown-menu">
-                                    <li class="menu-zheleznodorozhnye-perevozki sf-dropdown-submenu menu-item-26"><a href="http://1lk.com.ua/zhd-perevozki">Железнодорожные <br/> перевозки</a>
+                                    <li class="menu-zheleznodorozhnye-perevozki sf-dropdown-submenu menu-item-26"><a href="#/zhd-perevozki">Железнодорожные <br/> перевозки</a>
                                         <ul class="sf-dropdown-menu">
-                                            <li class="menu-perevozka-tarnyx-gruzov menu-item-205"><a href="http://1lk.com.ua/zhd-perevozki/tarnih-gruzov">Перевозка тарных грузов</a></li>
-                                            <li class="menu-refrizheratornye-zhd-gruzoperevozki-po-ukraine menu-item-206"><a href="http://1lk.com.ua/zhd-perevozki/temprature">Рефрижераторные жд грузоперевозки по Украине</a></li>
-                                            <li class="menu-perevozka-nasypnyx-gruzov menu-item-207"><a href="http://1lk.com.ua/zhd-perevozki/nasypnih">Перевозка насыпных грузов</a></li>
-                                            <li class="menu-perevozka-zernovyx-gruzov menu-item-208"><a href="http://1lk.com.ua/zhd-perevozki/zernovie">Перевозка зерновых грузов</a></li>
+                                            <li class="menu-perevozka-tarnyx-gruzov menu-item-205"><a href="#/zhd-perevozki/tarnih-gruzov">Перевозка тарных грузов</a></li>
+                                            <li class="menu-refrizheratornye-zhd-gruzoperevozki-po-ukraine menu-item-206"><a href="#/zhd-perevozki/temprature">Рефрижераторные жд грузоперевозки по Украине</a></li>
+                                            <li class="menu-perevozka-nasypnyx-gruzov menu-item-207"><a href="#/zhd-perevozki/nasypnih">Перевозка насыпных грузов</a></li>
+                                            <li class="menu-perevozka-zernovyx-gruzov menu-item-208"><a href="#/zhd-perevozki/zernovie">Перевозка зерновых грузов</a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-skladskie-uslugi-i-tamozhennoe-oformlenie-gruzov menu-item-25"><a href="http://1lk.com.ua/sklad">Складские услуги и таможенное оформление грузов</a></li>
-                                    <li class="menu-multimodalnye-perevozki menu-item-24"><a href="http://1lk.com.ua/multimodalnye-perevozki">Мультимодальные <br/> перевозки</a></li>
-                                    <li class="menu-tranzit-gruzov-zheleznodorozhnym-transportom menu-item-23"><a href="http://1lk.com.ua/tranzit">Транзит грузов железнодорожным транспортом</a></li>
+                                    <li class="menu-skladskie-uslugi-i-tamozhennoe-oformlenie-gruzov menu-item-25"><a href="#/sklad">Складские услуги и таможенное оформление грузов</a></li>
+                                    <li class="menu-multimodalnye-perevozki menu-item-24"><a href="#/multimodalnye-perevozki">Мультимодальные <br/> перевозки</a></li>
+                                    <li class="menu-tranzit-gruzov-zheleznodorozhnym-transportom menu-item-23"><a href="#/tranzit">Транзит грузов железнодорожным транспортом</a></li>
                                 </ul>
                             </li>
-                            <li class="menu-o-kompanii menu-item-27"><a href="http://1lk.com.ua/o-kompanii">О компании</a></li>
-                            <li class="menu-novosti menu-item-830"><a href="http://1lk.com.ua/category/news">Новости</a></li>
-                            <li class="menu-on-line-zayavka menu-item-21"><a href="http://1lk.com.ua/on-line">On-line заявка</a></li>
+                            <li class="menu-o-kompanii menu-item-27"><a href="#/o-kompanii">О компании</a></li>
+                            <li class="menu-novosti menu-item-830"><a href="#/category/news">Новости</a></li>
+                            <li class="menu-on-line-zayavka menu-item-21"><a href="#/on-line">On-line заявка</a></li>
                         </ul>
                     </nav>
                 </div>
